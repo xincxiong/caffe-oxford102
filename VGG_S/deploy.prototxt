@@ -187,7 +187,7 @@ layers {
   name: "fc8"
   type: INNER_PRODUCT
   inner_product_param {
-    num_output: 1000
+    num_output: 102
   }
 }
 layers {
